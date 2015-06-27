@@ -1,0 +1,10 @@
+Changes
+LICENSE
+MANIFEST
+Makefile.PL
+README
+lib/Acme/List/CarCdr.pm
+t/00-load.t
+t/carcdr.t
+t/pod-coverage.t
+t/pod.t
