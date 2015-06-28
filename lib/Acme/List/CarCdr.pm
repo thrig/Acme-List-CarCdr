@@ -132,6 +132,9 @@ L<https://github.com/thrig/Acme-List-CarCdr>
 
 Things have not been tested exhaustively for correctedness.
 
+Perl itself has "Identifier too long" limits; these for perl 2.50 kick
+in well before the 704 character limit that this module imposes.
+
 =head1 SEE ALSO
 
 L<perllol>, and any number of a few documents on Lisp (or
